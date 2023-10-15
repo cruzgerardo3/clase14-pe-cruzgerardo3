@@ -1,0 +1,15 @@
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\bin\Debug\net7.0\clase14-pe-cruzgerardo3.exe
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\bin\Debug\net7.0\clase14-pe-cruzgerardo3.deps.json
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\bin\Debug\net7.0\clase14-pe-cruzgerardo3.runtimeconfig.json
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\bin\Debug\net7.0\clase14-pe-cruzgerardo3.dll
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\bin\Debug\net7.0\clase14-pe-cruzgerardo3.pdb
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\obj\Debug\net7.0\clase14-pe-cruzgerardo3.csproj.AssemblyReference.cache
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\obj\Debug\net7.0\clase14-pe-cruzgerardo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\obj\Debug\net7.0\clase14-pe-cruzgerardo3.AssemblyInfoInputs.cache
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\obj\Debug\net7.0\clase14-pe-cruzgerardo3.AssemblyInfo.cs
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\obj\Debug\net7.0\clase14-pe-cruzgerardo3.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\obj\Debug\net7.0\clase14-pe-cruzgerardo3.dll
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\obj\Debug\net7.0\refint\clase14-pe-cruzgerardo3.dll
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\obj\Debug\net7.0\clase14-pe-cruzgerardo3.pdb
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\obj\Debug\net7.0\clase14-pe-cruzgerardo3.genruntimeconfig.cache
+C:\Users\Gerardo\Desktop\clase 14\clase14-pe-cruzgerardo3\obj\Debug\net7.0\ref\clase14-pe-cruzgerardo3.dll
